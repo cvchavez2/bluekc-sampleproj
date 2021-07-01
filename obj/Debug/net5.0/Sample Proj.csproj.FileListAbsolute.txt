@@ -1,0 +1,29 @@
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\appsettings.json
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.exe
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.deps.json
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.runtimeconfig.json
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.runtimeconfig.dev.json
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\ref\Sample Proj.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Sample Proj.pdb
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.csproj.AssemblyReference.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.AssemblyInfoInputs.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.AssemblyInfo.cs
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.csproj.CoreCompileInputs.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\staticwebassets\Sample Proj.StaticWebAssets.Manifest.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\staticwebassets\Sample Proj.StaticWebAssets.xml
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\scopedcss\bundle\Sample Proj.styles.css
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.RazorTargetAssemblyInfo.cache
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.csproj.CopyComplete
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\ref\Sample Proj.dll
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.pdb
+C:\Users\carlosc\Sample Projects\dotnet\Sample Proj\obj\Debug\net5.0\Sample Proj.genruntimeconfig.cache
